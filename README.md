@@ -6,3 +6,6 @@ Dataset used from given link in ML tasks PDF: CSV_file- https://github.com/Anura
 # TASK 2: CUSTOMER CHURN PREDICTION
 Develop a model to predict customer churn for a subscription- based service or business. Use historical customer data, including features like usage behavior and customer demographics, and try algorithms like Logistic Regression, Random Forests, or Gradient Boosting to predict churn.
 Dataset used from given link in ML tasks PDF: CSV_file- https://github.com/AnuradhaPal307/CODSOFT/blob/main/Churn_Modelling.csv 
+# TASK 3: CREDIT CARD FRAUD DETECTION
+Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.
+Dataset used from given link in ML tasks PDF: CSV_file - /kaggle/input/fraud-detection
